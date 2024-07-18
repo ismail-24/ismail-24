@@ -24,4 +24,4 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ismail-24&theme=ayu_mirage)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ismail-24&theme=ayu_mirage)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ismail-24&theme=ayu-mirage&hide_border=true&card_width=400&card_height=215)](https://git.io/streak-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ismail-24&theme=ayu_mirage)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ismail-24&theme=ayu-mirage&hide_border=true&card_width=420&card_height=200)](https://git.io/streak-stats)
