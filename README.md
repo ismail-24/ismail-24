@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Flutter, Dart, and mobile app development**
 
-- 📫 How to reach me [Email](ismailtarek888@gmail.com) or [LinkedIn](https://linkedin.com/in/ismail-tarek-404337240)
+- 📫 How to reach me <a href="ismailtarek888@gmail.com">Email</a> or [LinkedIn](https://linkedin.com/in/ismail-tarek-404337240)
 
 
 <h3 align="left">Languages and Tools:</h3>
