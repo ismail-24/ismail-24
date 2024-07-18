@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ismail</h1>
-<h3 align="center">Junior Flutter developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+junior+flutter+developer;freelancer)](https://git.io/typing-svg)
 
 - 🔭 I’m working on **Freelance Mobile Apps**
 
