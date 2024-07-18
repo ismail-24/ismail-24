@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismail-24" alt="ismail-24" /></a> </p>
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **Mobile Development with Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ismail-24?tab=repositories](https://github.com/ismail-24?tab=repositories)
 
-- 💬 Ask me about **flutter , php , html , SOLID**
+- 💬 Ask me about **Flutter, Dart, and mobile app development **
 
 - 📫 How to reach me **ismailtarek888@gmail.com**
 
