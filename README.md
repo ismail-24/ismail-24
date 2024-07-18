@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ismail</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+junior+flutter+developer" alt="Typing SVG" /></a>
+<a href="https://github.com/ismail-24"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+a+junior+flutter+developer" alt="Typing SVG" /></a>
 
 - 🔭 I’m working on **Freelance Mobile Apps**
 
