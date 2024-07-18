@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Flutter, Dart, and mobile app development **
 
-- 📫 How to reach me **ismailtarek888@gmail.com**
+- 📫 How to reach me [email](ismailtarek888@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
